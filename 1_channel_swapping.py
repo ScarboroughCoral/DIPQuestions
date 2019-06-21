@@ -9,4 +9,4 @@ img[:,:,0]=r
 img[:,:,1]=g
 img[:,:,2]=b
 
-cv2.imwrite("channel_swapping.jpg",img)
+cv2.imwrite("1_channel_swapping.jpg",img)
