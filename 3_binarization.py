@@ -8,4 +8,4 @@ th = 128
 gray[gray>=th]=255
 gray[gray<th]=0
 
-cv2.imwrite("3_binarization.jpg",gray)
+cv2.imwrite("4_binarization.jpg",gray)
